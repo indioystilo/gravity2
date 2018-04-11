@@ -1,0 +1,58 @@
+2018-Apr-05 21:54:33.917104 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-05 21:54:34.002532 INFO    [simplewallet] Generated new wallet: axVnMZu2KGuX4TGcCeLsVtCFTkN4mrHXESWSj1jVPph6R7CWD7N1JjW7sWxgkjxoAHWijdqp4qxqo1Wie6Z6hZS92tKqnsTYn
+2018-Apr-05 21:54:34.002532 INFO    [simplewallet] view key: 0ef8396f2bf4c3dc127c77887e33b375670efc2f2483ee4f1fd30a7425571b02
+2018-Apr-05 21:54:34.002735 INFO    [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-05 21:58:19.293073 INFO    [simplewallet] Height 1, transaction 859e49be80d987001927a8bb98510ac0c80e8a480e7b6dadee06e490f3271430, received 39.22
+2018-Apr-05 21:58:19.739453 INFO    [simplewallet] Height 2, transaction ef81f618166e89c4e60eee051501fb9fff123b1ebd838c66238e05743f304108, received 39.22
+2018-Apr-05 21:58:21.834356 INFO    [simplewallet] Wallet closed
+2018-Apr-05 22:00:27.898186 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-05 22:00:27.898393 ERROR   [simplewallet] Error: pocket.wallet already exists
+2018-Apr-05 22:00:27.898453 ERROR   [simplewallet] Failed to initialize wallet
+2018-Apr-05 23:05:55.242114 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-05 23:06:18.212717 INFO    [simplewallet] Loading wallet...
+2018-Apr-05 23:06:18.380857 INFO    [simplewallet] Opened wallet: axVnMZu2KGuX4TGcCeLsVtCFTkN4mrHXESWSj1jVPph6R7CWD7N1JjW7sWxgkjxoAHWijdqp4qxqo1Wie6Z6hZS92tKqnsTYn
+2018-Apr-05 23:06:18.381042 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-05 23:06:18.676830 INFO    [simplewallet] Height 3, transaction 14f62aa8880ff7d17034be4dfc3ede9236540f2f0738f32b71e4cb06506e1a55, received 39.22
+2018-Apr-05 23:06:18.677107 INFO    [simplewallet] Height 4, transaction 405b6ea8e43efb77b4a99b56bd2edee5b8d0853590256758b228725806325163, received 39.22
+2018-Apr-05 23:06:34.618108 INFO    [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  export_keys          Show the secret keys of the openned wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Apr-05 23:06:46.633212 INFO    [simplewallet] available balance: 0.00, locked amount: 156.88
+2018-Apr-05 23:06:57.461689 INFO    [simplewallet] Wallet data saved
+2018-Apr-05 23:07:03.412649 INFO    [simplewallet] Wallet closed
+2018-Apr-05 23:07:11.564421 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-05 23:07:20.936709 INFO    [simplewallet] Loading wallet...
+2018-Apr-05 23:07:21.100739 INFO    [simplewallet] Opened wallet: axVnMZu2KGuX4TGcCeLsVtCFTkN4mrHXESWSj1jVPph6R7CWD7N1JjW7sWxgkjxoAHWijdqp4qxqo1Wie6Z6hZS92tKqnsTYn
+2018-Apr-05 23:07:21.100833 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Apr-05 23:09:11.121995 ERROR   [simplewallet] Error: wallet failed to connect to daemon (http://localhost:8338).
+2018-Apr-05 23:09:23.690640 INFO    [simplewallet] Wallet connected to daemon.
+2018-Apr-05 23:10:19.884615 INFO    [simplewallet] Wallet closed
+2018-Apr-05 23:10:25.781105 INFO    [simplewallet] forknote wallet v2.1.2.1251 ()
+2018-Apr-05 23:10:34.924708 INFO    [simplewallet] Loading wallet...
+2018-Apr-05 23:10:35.106736 INFO    [simplewallet] Opened wallet: axVnMZu2KGuX4TGcCeLsVtCFTkN4mrHXESWSj1jVPph6R7CWD7N1JjW7sWxgkjxoAHWijdqp4qxqo1Wie6Z6hZS92tKqnsTYn
+2018-Apr-05 23:10:35.106940 INFO    [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
